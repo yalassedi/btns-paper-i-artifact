@@ -53,6 +53,6 @@
     "code": "MIT License; see LICENSE-CODE-MIT.txt",
     "data_outputs_documentation": "Creative Commons Attribution 4.0 International; see LICENSE-DATA-CC-BY-4.0.txt"
   },
-  "repository": "To be added after GitHub upload",
-  "zenodo_doi": "To be added after Zenodo release"
+  "repository": "yalassedi/btns-paper-i-artifact",
+  "zenodo_doi": "10.5281/zenodo.20357359"
 }
