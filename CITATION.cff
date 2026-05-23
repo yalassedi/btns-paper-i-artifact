@@ -8,7 +8,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-05-23"
 license: "MIT"
-repository-code: "https://github.com/<username>/finite-btns-polynomial-coefficient-construction"
+repository-code: "https://github.com/10.5281/zenodo.20357359/finite-btns-polynomial-coefficient-construction"
 keywords:
   - balanced ternary
   - signed-digit arithmetic
