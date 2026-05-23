@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "A Finite Balanced-Ternary Computational Regime for Native Polynomial-Coefficient Construction: Paper I Artifact"
+message: "If you use this artifact, please cite the archived Zenodo release."
+type: software
+authors:
+  - family-names: "Younus"
+    given-names: "Younus M."
+version: "1.0.0"
+date-released: "2026-05-23"
+license: "MIT"
+repository-code: "https://github.com/<username>/finite-btns-polynomial-coefficient-construction"
+keywords:
+  - balanced ternary
+  - signed-digit arithmetic
+  - polynomial coefficient construction
+  - Windowed Fractional Canonization
+  - Unified Certified Contract
+  - matched-depth fairness
+  - reproducible computation
